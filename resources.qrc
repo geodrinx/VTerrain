@@ -1,0 +1,7 @@
+<RCC> 
+  <qresource prefix="/VTerrain" > 
+    <file>icons/icon_VTerrain.png</file>
+    <file>icons/about_icon.png</file>
+    <file>icons/icon_VTerrainXYZ.png</file>         
+  </qresource> 
+</RCC> 

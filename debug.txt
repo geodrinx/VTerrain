@@ -1,0 +1,486 @@
+
+Enviro
+Build: Release Unicode
+
+Specific application name: Enviro
+VTP version: 1.52
+Application framework: wxWidgets v2.9.4
+ Running on: Professional S (Build 7601)
+Build date: Jun 14 2013
+
+Looking for 'vtp.xml'
+Not found.
+Looking for 'C:\Users\rangeletti\AppData\Roaming/vtp.xml'
+	Reading datapaths from 'C:\Users\rangeletti\AppData\Roaming/vtp.xml'
+	Successfully read.
+Loaded Datapaths:
+   c:\Users\rangeletti\Programmi\VTP\Data0/
+   c:\Users\rangeletti\Programmi\VTP\Data1/
+   c:\Users\rangeletti\Programmi\VTP\Data2/
+   c:\Users\rangeletti\Programmi\VTP\Data3/
+   c:\Users\rangeletti\Programmi\VTP\Data4/
+   c:\Users\rangeletti\Programmi\VTP\Data5/
+   c:\Users\rangeletti\Programmi\VTP\Data6/
+   c:\Users\rangeletti\Programmi\VTP\Data7/
+   c:\Users\rangeletti\Programmi\VTP\Data8/
+   c:\Users\rangeletti\Programmi\VTP\Data9/
+   c:\Users\rangeletti\Programmi\VTP\Data10/
+   c:\Users\rangeletti\Programmi\VTP\Data11/
+   c:\Users\rangeletti\Programmi\VTP\Data12/
+   c:\Users\rangeletti\Programmi\VTP\Data13/
+   c:\Users\rangeletti\Programmi\VTP\Data14/
+   c:\Users\rangeletti\Programmi\VTP\Data15/
+   c:\Users\rangeletti\Programmi\VTP\Data16/
+   c:\Users\rangeletti\Programmi\VTP\Data16bis/
+   c:\Users\rangeletti\Programmi\VTP\Data18/
+   c:\Users\rangeletti\Programmi\VTP\Data19/
+   c:\Users\rangeletti\Programmi\VTP\Data20/
+   c:\Users\rangeletti\Programmi\VTP\Data21/
+   c:\Users\rangeletti\Programmi\VTP\Data22/
+   c:\Users\rangeletti\Programmi\VTP\Data23/
+   c:\Users\rangeletti\Programmi\VTP\Data24/
+   c:\Users\rangeletti\Programmi\VTP\Data25/
+   c:\Users\rangeletti\Programmi\VTP\Data26/
+   c:\Users\rangeletti\Programmi\VTP\Data27/
+   c:\Users\rangeletti\Programmi\VTP\Data28/
+   c:\Users\rangeletti\Programmi\VTP\Data29/
+   c:\Users\rangeletti\Programmi\VTP\Data30/
+   c:\Users\rangeletti\Programmi\VTP\Data96/
+   c:\Users\rangeletti\Programmi\VTP\Data98/
+   c:\Users\rangeletti\Programmi\VTP\Data99/
+   c:\Users\rangeletti\Programmi\VTP\Data100/
+   c:\Users\rangeletti\Programmi\VTP\Data101/
+   c:\Users\rangeletti\Programmi\VTP\Data102/
+   c:\Users\rangeletti\Programmi\VTP\Data103/
+   c:\Users\rangeletti\Programmi\VTP\Data104/
+   c:\Users\rangeletti\Programmi\VTP\Data105/
+   c:\Users\rangeletti\Programmi\VTP\Data107/
+   c:\Users\rangeletti\Programmi\VTP\Data108/
+   c:\Users\rangeletti\Programmi\VTP\Data109/
+   c:\Users\rangeletti\Programmi\VTP\Data110/
+   c:\Users\rangeletti\Programmi\VTP\Data9999/
+   C:\Users\rangeletti\Programmi\VTP\Data111/
+   C:\Users\rangeletti\Programmi\VTP\Data1_GaetaOSM/
+   C:\Users\rangeletti\Programmi\VTP\Data112/
+   C:\Users\rangeletti\Programmi\VTP\Data113/
+   C:\Users\rangeletti\Programmi\VTP\Data114/
+   C:\Users\rangeletti\Programmi\VTP\Data115/
+   C:\Users\rangeletti\Programmi\VTP\Data116/
+   C:\Users\rangeletti\Programmi\VTP\Data/
+   C:\Users\rangeletti\Programmi\VTP\Data118/
+   C:\Users\rangeletti\Programmi\VTP\Data119/
+   C:\Users\rangeletti\Programmi\VTP\Data/
+   C:\Users\rangeletti\Programmi\VTP\Data120/
+   C:\Users\rangeletti\Programmi\VTP\Data121/
+   C:\Users\rangeletti\Programmi\VTP\Data122/
+
+Using Datapaths:
+   c:\Users\rangeletti\Programmi\VTP\Data0/
+   c:\Users\rangeletti\Programmi\VTP\Data1/
+   c:\Users\rangeletti\Programmi\VTP\Data2/
+   c:\Users\rangeletti\Programmi\VTP\Data3/
+   c:\Users\rangeletti\Programmi\VTP\Data4/
+   c:\Users\rangeletti\Programmi\VTP\Data5/
+   c:\Users\rangeletti\Programmi\VTP\Data6/
+   c:\Users\rangeletti\Programmi\VTP\Data7/
+   c:\Users\rangeletti\Programmi\VTP\Data8/
+   c:\Users\rangeletti\Programmi\VTP\Data9/
+   c:\Users\rangeletti\Programmi\VTP\Data10/
+   c:\Users\rangeletti\Programmi\VTP\Data11/
+   c:\Users\rangeletti\Programmi\VTP\Data12/
+   c:\Users\rangeletti\Programmi\VTP\Data13/
+   c:\Users\rangeletti\Programmi\VTP\Data14/
+   c:\Users\rangeletti\Programmi\VTP\Data15/
+   c:\Users\rangeletti\Programmi\VTP\Data16/
+   c:\Users\rangeletti\Programmi\VTP\Data16bis/
+   c:\Users\rangeletti\Programmi\VTP\Data18/
+   c:\Users\rangeletti\Programmi\VTP\Data19/
+   c:\Users\rangeletti\Programmi\VTP\Data20/
+   c:\Users\rangeletti\Programmi\VTP\Data21/
+   c:\Users\rangeletti\Programmi\VTP\Data22/
+   c:\Users\rangeletti\Programmi\VTP\Data23/
+   c:\Users\rangeletti\Programmi\VTP\Data24/
+   c:\Users\rangeletti\Programmi\VTP\Data25/
+   c:\Users\rangeletti\Programmi\VTP\Data26/
+   c:\Users\rangeletti\Programmi\VTP\Data27/
+   c:\Users\rangeletti\Programmi\VTP\Data28/
+   c:\Users\rangeletti\Programmi\VTP\Data29/
+   c:\Users\rangeletti\Programmi\VTP\Data30/
+   c:\Users\rangeletti\Programmi\VTP\Data96/
+   c:\Users\rangeletti\Programmi\VTP\Data98/
+   c:\Users\rangeletti\Programmi\VTP\Data99/
+   c:\Users\rangeletti\Programmi\VTP\Data100/
+   c:\Users\rangeletti\Programmi\VTP\Data101/
+   c:\Users\rangeletti\Programmi\VTP\Data102/
+   c:\Users\rangeletti\Programmi\VTP\Data103/
+   c:\Users\rangeletti\Programmi\VTP\Data104/
+   c:\Users\rangeletti\Programmi\VTP\Data105/
+   c:\Users\rangeletti\Programmi\VTP\Data107/
+   c:\Users\rangeletti\Programmi\VTP\Data108/
+   c:\Users\rangeletti\Programmi\VTP\Data109/
+   c:\Users\rangeletti\Programmi\VTP\Data110/
+   c:\Users\rangeletti\Programmi\VTP\Data9999/
+   C:\Users\rangeletti\Programmi\VTP\Data111/
+   C:\Users\rangeletti\Programmi\VTP\Data1_GaetaOSM/
+   C:\Users\rangeletti\Programmi\VTP\Data112/
+   C:\Users\rangeletti\Programmi\VTP\Data113/
+   C:\Users\rangeletti\Programmi\VTP\Data114/
+   C:\Users\rangeletti\Programmi\VTP\Data115/
+   C:\Users\rangeletti\Programmi\VTP\Data116/
+   C:\Users\rangeletti\Programmi\VTP\Data/
+   C:\Users\rangeletti\Programmi\VTP\Data118/
+   C:\Users\rangeletti\Programmi\VTP\Data119/
+   C:\Users\rangeletti\Programmi\VTP\Data/
+   C:\Users\rangeletti\Programmi\VTP\Data120/
+   C:\Users\rangeletti\Programmi\VTP\Data121/
+   C:\Users\rangeletti\Programmi\VTP\Data122/
+
+There are 2 command-line arguments:
+Command line 0: C:\Users\rangeletti/Programmi/VTP/Apps/Enviro
+Command line 1: -terrain=tempVTP
+SetupLocale:
+Default language: 110 (Italian)
+Initializing locale to default language:
+ wxLog: using catalog 'wxstd' from 'C:\Users\rangeletti\Programmi\VTP\Apps\it\wxstd.mo'.
+ wxLog: 08:55:44: using catalog 'wxstd' from 'C:\Users\rangeletti\Programmi\VTP\Apps\it\wxstd.mo'.
+ succeeded.
+Attempting to load the 'Enviro.mo' catalog for the current locale.
+ wxLog: utilizzato catalogo 'Enviro' in 'C:\Users\rangeletti\Programmi\VTP\Apps\it\Enviro.mo'.
+ wxLog: 08:55:44: utilizzato catalogo 'Enviro' in 'C:\Users\rangeletti\Programmi\VTP\Apps\it\Enviro.mo'.
+ succeeded.
+
+getenv GDAL_DATA: 'C:\Users\rangeletti\Programmi\MapWindow\GDAL_DATA'
+getenv PROJ_LIB: 'C:\Users\rangeletti\Programmi\MapWindow\PROJ_NAD'
+GDAL_DATA/PROJ_LIB/PROJSO tests has: 1 1 1
+Testing ability to create coordinate transforms.
+CPL Debug: OGRCT: PROJ >= 4.8.0 features enabled
+CPL Debug: OGRCT: Source: +proj=utm +zone=1 +ellps=WGS84 +units=m +no_defs 
+CPL Debug: OGRCT: Target: +proj=utm +zone=2 +ellps=WGS84 +units=m +no_defs 
+LoadAllTerrainDescriptions...
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data0/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/Bolzano.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/Invent-Italia.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/Invent-Italia1km_Wgs84LLH.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/Invent-Italia300m.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaCentro.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaDtm50m.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaFriuliVeneto.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaLiguria_GbEst.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaLiguria_Wgs84f32.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaSardegna.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaSicilia.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/ItaliaToscanaCosta.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/Lazio_GbEst.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data0/Terrains/PiemonteClip.xml'
+	14 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data1/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/GaaetaVecchia_GbEst.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/GaaetaVecchia_Zero_GbEst.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/Gaeta.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/Gaeta02.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/GaetaAntica.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/GaetaBuildingsITF_Wgs84f33.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/GaetaDoubled.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/GaetaSuperDTM.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/GaetaTIN_GbEst.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/Gaeta_CastAntonello.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/Gaeta_test.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data1/Terrains/Gaeta_Wgs84LLH.xml'
+	12 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data2/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data2/Terrains/Perugia.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data3/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data3/Terrains/Gaeta03.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data4/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data4/Terrains/ItaliaCentroRoma_GbEst.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data5/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data5/Terrains/Senegal.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data6/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data6/Terrains/Marche_GbEst.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data7/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data7/Terrains/Hawai'i.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data7/Terrains/Hawaii.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data7/Terrains/Honoka'a.xml'
+	3 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data8/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data8/Terrains/ShuttleRadar.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data9/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data9/Terrains/Jamaica.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data10/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data10/Terrains/IsoleVergini.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data11/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data11/Terrains/Bathymetry.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data12/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data12/Terrains/Etna.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data12/Terrains/Sicilia.xml'
+	2 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data13/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data13/Terrains/Parma.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data14/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data14/Terrains/Perugia TIN vs. Grid.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data15/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data15/Terrains/Firenze.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data16/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data16/Terrains/VeneziaTIN.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data16bis/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data16bis/Terrains/Roma.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data16bis/Terrains/RomaEdificioTest.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data16bis/Terrains/RomaPratiGDXObj.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data16bis/Terrains/RomaPratiVTPObj.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data16bis/Terrains/RomaVPalestro.xml'
+	5 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data18/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data18/Terrains/TelecomRoma.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data19/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data19/Terrains/FrenchBATI.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data20/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data20/Terrains/Gargano.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data20/Terrains/Puglia_Area2.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data20/Terrains/Puglia_Area3.xml'
+	3 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data21/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data21/Terrains/LAquila.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data21/Terrains/LAquila3D_Roofs_Wgs84LLH.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data21/Terrains/LAquila3D_Wgs84LLH.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data21/Terrains/LAquilaEstrusi.xml'
+	4 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data22/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data22/Terrains/Amelia.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data23/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data23/Terrains/Ardea.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data24/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data24/Terrains/Puglia.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data25/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data25/Terrains/Emilia.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data26/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data26/Terrains/Marche.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data27/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data27/Terrains/MarcheBacinoChienti.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data28/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data28/Terrains/USA_Laser.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data29/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data29/Terrains/Messico.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data29/Terrains/Messico_FLT.xml'
+	2 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data30/':
+	0 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data96/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data96/Terrains/PetrellaSalto.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data96/Terrains/PetrellaSaltoTiles.xml'
+	2 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data98/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data98/Terrains/TrentoEdifici.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data98/Terrains/TrentoForti.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data98/Terrains/TrentoLidar.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data98/Terrains/TrentoLidarTileset_2metri.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data98/Terrains/TrentoLidarTin.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data98/Terrains/TrentoTilesetTin.xml'
+	6 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data99/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data99/Terrains/Canaria.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data99/Terrains/CanariaPunta.xml'
+	2 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data100/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data100/Terrains/Valpolicella.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data101/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data101/Terrains/SenseFlySmallVillage.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data102/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data102/Terrains/MenciSenseFly.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data103/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data103/Terrains/Cles_ArcheOS.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data104/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data104/Terrains/Sardegna.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data105/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data105/Terrains/Bugaboo.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data107/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data107/Terrains/Cava_Chartagena.xml'
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data107/Terrains/Cava_Chartagena_TIN.xml'
+	2 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data108/':
+	0 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data109/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data109/Terrains/AppiaArea.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data110/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data110/Terrains/Dolomiti.xml'
+	1 terrains.
+  On path 'c:\Users\rangeletti\Programmi\VTP\Data9999/':
+	Reading TParams from 'c:\Users\rangeletti\Programmi\VTP\Data9999/Terrains/tempVTP.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data111/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data111/Terrains/Conero.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data111/Terrains/Conero_BT.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data111/Terrains/Conero_BT_multi_ITF.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data111/Terrains/Conero_TPZ.xml'
+	4 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data1_GaetaOSM/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data1_GaetaOSM/Terrains/Gaeta_OSM.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data112/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data112/Terrains/Catania_OSM.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data113/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data113/Terrains/RomaCentro_OSM.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data114/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data114/Terrains/LAquila_OSM.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data115/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data115/Terrains/Cles_OSM.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data115/Terrains/Cles_OSM_DSM.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data115/Terrains/Cles_OSM_DTM.xml'
+	3 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data116/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data116/Terrains/PowerLines.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data/Terrains/crater_lake_bathy.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data/Terrains/Generic Terrain.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data/Terrains/Simple.xml'
+	3 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data118/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data118/Terrains/Tavagnacco.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data118/Terrains/TavagnaccoTiles.xml'
+	2 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data119/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data119/Terrains/Burkina_Faso.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data/Terrains/crater_lake_bathy.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data/Terrains/Generic Terrain.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data/Terrains/Simple.xml'
+	3 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data120/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data120/Terrains/ValleDelChiese_DSM.xml'
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data120/Terrains/ValleDelChiese_Tiles_DSM.xml'
+	2 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data121/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data121/Terrains/ValleDelChiese_Tiles42.xml'
+	1 terrains.
+  On path 'C:\Users\rangeletti\Programmi\VTP\Data122/':
+	Reading TParams from 'C:\Users\rangeletti\Programmi\VTP\Data122/Terrains/Sardegna_Lidar_1m_Clip002.xml'
+	1 terrains.
+ Done.
+Looking for global content file 'common_content.vtco'
+  Loading content file.
+   Load successful, 26 items
+Creating the frame window.
+Frame constructor.
+ Setting icon
+Frame window: creating menus and toolbars.
+ Creating Status Bar.
+Anti-aliasing multisamples: 0
+Frame window: creating view canvas.
+vtGLCanvas constructor
+vtGLCanvas: calling Show on parent
+Canvas  OnSize: 792 533
+vtGLCanvas, leaving constructor
+EnviroCanvas constructor
+Showing the main frame
+Constructing dialogs
+Canvas  OnSize: 790 531
+vtGLCanvas: first OnPaint
+vtGLCanvas: creating a wxPaintDC on the stack
+vtGLCanvas: DoUpdate
+EnviroCanvas: update status bar
+Canvas  OnSize: 549 531
+Realize toolbar.
+vtScene::Init
+OSG threading model is: DrawThreadPerContext
+vtWindow::SetSize(549, 502)
+StartControlEngine
+vtWindow::SetSize(549, 502)
+AS_Initializing initstep=1
+SetupScene1
+BeginTerrainScene:
+ Creating Main Light
+ Creating SkyDome
+  Stars: 'C:\Users\rangeletti\Programmi\VTP\Data/Sky/bsc.data'
+    Sun: 'C:\Users\rangeletti\Programmi\VTP\Data/Sky/glow2.png'
+   Moon: 'C:\Users\rangeletti\Programmi\VTP\Data/Sky/moon5_256.png'
+  vtSkyDome::Create
+   Creating Dome Nodes
+   Creating Dome Materials
+   Creating Dome Mesh
+   Creating Markers
+SkyDome ShowMarkers(0)
+   Loading Sun Image.. succeeded.
+   Creating Sun Geom
+   Creating Sun Mesh
+  vtStarDome::Create
+6. realizeImplementation(canvas 0397DA58, context 039FE2B8)
+3. makeCurrentImplementation(canvas 0397DA58, context 039FE2B8)
+AS_Initializing initstep=2
+SetupScene2
+Setting up Cameras
+Creating Top-Down Camera
+AS_Initializing initstep=3
+AS_Initializing initstep=4
+RequestTerrain (tempVTP)
+FindTerrainByName (tempVTP):
+  found terrain number 87.
+RequestTerrain 393f9e8
+Changing app state from AS_Initializing to AS_SwitchToTerrain
+SetupTerrain step 1
+ SetMessage: 'Setting up Terrain ' ''tempVTP''
+SetupTerrain step 2
+ SetMessage: 'Loading Elevation' ''
+SetupTerrain step 3
+There are 0 vegetation layers
+Step2
+	Found elevation at: C:/Users/rangeletti/AreaLavoro/Lavoro20140324_Alatri/Gaeta/Gaeta_LowRes/Gaeta_GridTinPunti2mMKP_2049pow2_GbEst.bt
+BT header: version 1.3, float 1, CRS external 1
+	Grid load succeeded.
+		Size: 2049 x 2049.
+		Earth Extents LRTB: 2.38869e+006 2.40609e+006 4.57286e+006 4.56196e+006
+		Vertical exaggeration: 1
+		World Extents LRTB: -0 -1.3512e+008 -1.21336e+009 -0
+ Projection of the terrain: simple, 'geo, datum WGS84'
+ Earth extents LRTB: 2388687.000000 2406088.000000 4572864.000000 4561964.000000
+ SetMessage: 'Loading/Coloring/Prelighting Textures' ''
+SetupTerrain step 4
+Placing skydome.
+CPL Debug: OGRCT: Source: +proj=longlat +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +no_defs 
+CPL Debug: OGRCT: Target: +proj=longlat +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +no_defs 
+Initial time: 104 2 21 10 0 0
+Step3
+LoadTexture(3)
+	 grid width is 2049, texture max is 8192, creating artificial texture of dimension 2048
+ColorDibFromElevation: table of 25 values, first [60 60 60],
+	min 0, max 1198.4, range 1198.4, granularity 4000
+ ColorDibFromTable: dib size 2048 x 2048, grid 2049 x 2049.. Done.
+  PaintDib: 0.63 seconds.
+  Prelighting texture: 4.328 seconds.
+ SetMessage: 'Processing Elevation' ''
+SetupTerrain step 5
+Step4
+ CreateFromGrid
+ LOD method 0
