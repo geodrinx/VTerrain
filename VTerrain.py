@@ -143,10 +143,12 @@ class VTerrain:
 
                 fet = QgsFeature()
                 fet.setGeometry( QgsGeometry.fromPoint(QgsPoint(X,Y)) )
-                fet.setAttributeMap( { 0 : QVariant(X), 
-                                       1 : QVariant(Y),
-                                       2 : QVariant(Z) } )
+                fet.initAttributes(3)
+                
+                values = [(X), (Y), (Z)]                  
 
+                fet.setAttributes(values)                        
+                                                                         
                 pr.addFeatures( [ fet ] )
 
 
@@ -159,7 +161,7 @@ class VTerrain:
         
         QgsMapLayerRegistry.instance().addMapLayer(memLay)            
 
-        memLay.updateFieldMap()
+        memLay.updateFields()
         
    
    def unload(self):

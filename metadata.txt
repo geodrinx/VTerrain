@@ -12,7 +12,7 @@
 name=VTerrain
 description=VTerrain plugin displays VirtualTerrainProjects -  tested on Windows and Linux
 category=Plugins
-version=1.0.1
+version=1.0.2
 experimental=False
 qgisMinimumVersion=1.8
 qgisMaximumVersion=2.99
@@ -32,8 +32,8 @@ icon=./icons/icon_VTerrain.png
 tags=
 
 homepage=http://plugins.qgis.org/plugins/VTerrain/
-tracker=http://plugins.qgis.org/plugins/VTerrain/
-repository=http://plugins.qgis.org/plugins/VTerrain/
+tracker=https://github.com/geodrinx/VTerrain/issues
+repository=https://github.com/geodrinx/VTerrain
 
 
 # deprecated flag (applies to the whole plugin, not just a single version
